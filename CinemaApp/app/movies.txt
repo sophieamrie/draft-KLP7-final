@@ -1,4 +1,0 @@
-Avengers: Endgame|Action|181|10:00,13:00,16:00,19:00
-Spider-Man: No Way Home|Action|148|11:00,14:00,17:00,20:00
-The Batman|Action|176|09:00,12:00,15:00,18:00
-Top Gun: Maverick|Action|130|10:30,13:30,16:30,19:30
