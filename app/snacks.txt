@@ -1,0 +1,6 @@
+Popcorn Large|25000
+Popcorn Medium|20000
+Coca Cola|15000
+Pepsi|15000
+Nachos|30000
+Hot Dog|25000

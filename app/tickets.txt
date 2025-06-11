@@ -1,0 +1,42 @@
+|========== MOVIE TICKET ==========|
+Ticket ID      : TKT1749363332930
+Date           : 2025-06-08 14:15:32
+Customer       : salsa
+Movie          : Avengers: Endgame
+Date           : 2025-06-08
+Schedule       : 19:00
+Seat           : A1
+Snacks         :
+  - No snacks
+Total Amount   : Rp 50,000
+Status         : PAID
+|==================================|
+
+|========== MOVIE TICKET ==========|
+Ticket ID      : TKT1749363361920
+Date           : 2025-06-08 14:16:01
+Customer       : salsa
+Movie          : Avengers: Endgame
+Date           : 2025-06-08
+Schedule       : 19:00
+Seat           : A1
+Snacks         :
+  - No snacks
+Total Amount   : Rp 50,000
+Status         : PAID
+|==================================|
+
+|========== MOVIE TICKET ==========|
+Ticket ID      : TKT1749622665207
+Date           : 2025-06-11 14:17:45
+Customer       : salsa
+Movie          : Avengers: Endgame
+Date           : 2025-06-11
+Schedule       : 10:00
+Seat           : C4
+Snacks         :
+  - 1x Popcorn Large (Rp 25,000)
+Total Amount   : Rp 75,000
+Status         : PAID
+|==================================|
+
